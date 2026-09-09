@@ -1,0 +1,3 @@
+Ganesh is writing file via python
+This is the second program in file i/o
+Hey this content is added using append
