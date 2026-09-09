@@ -63,8 +63,9 @@ python-learning/
 
 I successfully completed **CodeWithHarry's Python Bootcamp** on **23 November 2025**.
 
-📜 **Certificate:**
-<p align="center"> <img src="./certificate.png" alt="[English]_Complete_2025_Python_Bootcamp__Learn_Python_from_Scratch_Certificate_page-0001.jpg" width="800"> </p>
+## 🎓 Course Completion Certificate
+
+<p align="center"> <img src="./1_A_source/[English]_Complete_2025_Python_Bootcamp__Learn_Python_from_Scratch_Certificate_page-0001.png" alt="Python Bootcamp Certificate"> </p>
 
 The certificate is included in this repository as proof of course completion.
 
