@@ -1,7 +1,3 @@
-from matplotlib import is_interactive
-from sympy import true
-
-
 age = 22
 print(age)
 
